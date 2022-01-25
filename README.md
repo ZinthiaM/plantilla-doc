@@ -3,7 +3,7 @@
 ![Status badge](https://img.shields.io/badge/status-done-blue)
 ![Status badge](https://img.shields.io/badge/status-testing-important)
 
-✨ _Acá va un párrafo que describa lo que es el proyecto_
+✨ _Descripcion general del proyecto_
 
 ## Pre-requisitos 📋
 
